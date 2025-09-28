@@ -1,0 +1,15 @@
+# Python packages needed for the IoT Energy Management System
+
+# For loading environment variables from .env file
+python-dotenv==1.0.0
+supabase==2.3.4
+
+# For Kafka integration (will be used in next steps)
+kafka-python==2.0.2
+
+# For database operations (will be used later)
+sqlite3
+
+# For JSON handling (built into Python, no need to install)
+# For datetime operations (built into Python, no need to install)
+# For random number generation (built into Python, no need to install)
